@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kammelaaradhan
-- 👀 I’m interested in Machine Learning, FullStack Web Development and Cloud
-- 🌱 I’m currently learning ML,Cloud and Web Development
+- 👀 I’m interested in Machine Learning , FullStack Web Development and Cloud
+- 🌱 I’m currently learning ML , Cloud and Web Development
 - 💞️ I’m looking to collaborate on MEAN Stack, machine learning , Cloud
 - 📫 How to reach me :kammelaaradhan@gmail.com
 
